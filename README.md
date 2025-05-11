@@ -1,2 +1,2 @@
 # User-Registry
-A user registry smart contract that uses arrays to store user profile information
+A user registry smart contract that uses mapping and arrays to store user profile information.
